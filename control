@@ -1,0 +1,9 @@
+Package: com.pwn20wnd.deviceoperator
+Name: DeviceOperator
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change the operator name in the status bar to devices internal identifier.
+Maintainer: Pwn20wnd
+Author: Pwn20wnd
+Section: Tweaks
